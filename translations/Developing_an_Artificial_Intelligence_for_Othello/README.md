@@ -506,7 +506,7 @@ Paul S. Rosenbloom, 1981。
 Logistello が登場する前の、最初期の強豪プログラムの 1 つである IAGO プログラムの開発に繋がった全てのテクニックとステップを詳細に説明した論文の1つ。
 特に、オセロのゲームの戦略で役割を果たす "特徴"、すなわち重要な要素については良い議論があります。
 
-### [https://skatgame.net/mburo/ps/compoth.pdf](https://skatgame.net/mburo/ps/compoth.pdf)
+### [An evaluation function for Othello based on statistics](https://skatgame.net/mburo/ps/compoth.pdf)
 
 Michael Buro, 2002。
 有名な Logistello プログラムの作者である MichaelBuro による必読の論文です。
