@@ -31,7 +31,7 @@ Logistello や Edax の偉大さとそれを支える技術、昨今の Neural n
          * [ベクトル化](#ベクトル化)
       * [参考文献](#参考文献)
          * [<a href="https://ndownloader.figshare.com/files/12092954" rel="nofollow">A world-championship-level Othello program</a>](#a-world-championship-level-othello-program)
-         * [<a href="https://skatgame.net/mburo/ps/compoth.pdf" rel="nofollow">https://skatgame.net/mburo/ps/compoth.pdf</a>](#httpsskatgamenetmburopscompothpdf)
+         * [<a href="https://skatgame.net/mburo/ps/compoth.pdf" rel="nofollow">An evaluation function for Othello based on statistics</a>](#an-evaluation-function-for-othello-based-on-statistics)
          * [<a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.16.9096" rel="nofollow">The evolution of Strong Othello programs</a>](#the-evolution-of-strong-othello-programs)
          * [<a href="https://skatgame.net/mburo/ps/improve.pdf" rel="nofollow">Experiments with Multi-ProbCut and a new High-Quality evaluation Function for Othello</a>](#experiments-with-multi-probcut-and-a-new-high-quality-evaluation-function-for-othello)
          * [<a href="https://skatgame.net/mburo/ps/book.pdf" rel="nofollow">Toward Opening Book Learning</a>](#toward-opening-book-learning)
@@ -45,7 +45,7 @@ Logistello や Edax の偉大さとそれを支える技術、昨今の Neural n
       * [有益なリンク](#有益なリンク)
       * [法的な言及](#法的な言及)
 
-<!-- Added by: shimizunaoki, at: 2020年 11月17日 火曜日 04時01分35秒 JST -->
+<!-- Added by: shimizunaoki, at: 2020年 11月18日 水曜日 01時45分51秒 JST -->
 
 <!--te-->
 

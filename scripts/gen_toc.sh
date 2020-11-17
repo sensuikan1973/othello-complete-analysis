@@ -6,8 +6,3 @@
 ./gh-md-toc --insert translations/Developing_an_Artificial_Intelligence_for_Othello/README.md
 find ./ -name "*.orig.*" | xargs rm
 find ./ -name "*.toc.*" | xargs rm
-
-# commit + force push。推敲段階入るまでは amend + force push でいいや。
-git add -u
-git commit --amend --no-edit
-git push--f origin main
