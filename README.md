@@ -259,6 +259,7 @@ aaa
 * [Checker is Solved](https://science.sciencemag.org/content/317/5844/1518/tab-pdf)
 
 #### Chess
+* [Bitboards on the Chess Programming Wiki](https://www.chessprogramming.org/Bitboards)
 * [LeelaChessZero](https://github.com/LeelaChessZero/lc0)
 * [Stockfish](https://github.com/official-stockfish)
 * [Stockfish完全解析](http://yaneuraou.yaneu.com/stockfish%e5%ae%8c%e5%85%a8%e8%a7%a3%e6%9e%90/)
