@@ -218,6 +218,10 @@ aaa
   * for Android: [Reversatile (旧 DroidZebra)](https://play.google.com/store/apps/details?id=de.earthlingz.oerszebra)
      * [Source Code](https://github.com/oers/reversatile)
 * [Logistello](https://www.skatgame.net/mburo/log.html)
+  * [Experiments with Multi-ProbCut and a New High-Quality Evaluation Function for Othello](https://skatgame.net/mburo/ps/improve.pdf)
+  * [Toward Opening Book Learning](https://skatgame.net/mburo/ps/book.pdf)
+  * [An evaluation function for Othello based on statistics](https://skatgame.net/mburo/ps/compoth.pdf)
+  * [The evolution of Strong Othello programs](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.16.9096)
 * [Saio](https://www.romanobenedetto.it/Saio.htm)
   * [SAIO: UN SISTEMA ESPERTO PER ILGIOCO DELL’OTHELLO](https://www.romanobenedetto.it/tesi.pdf)
   * [ANALYZE: SAIO - World Othello Federation News](https://www.worldothello.org/news/131/analyze-saio)
@@ -239,7 +243,6 @@ aaa
 
 #### Othello
 * [Computer Othello | Wikipedia](https://en.wikipedia.org/wiki/Computer_Othello)
-* [Experiments with Multi-ProbCut and a New High-Quality Evaluation Function for Othello](https://skatgame.net/mburo/ps/improve.pdf)
 * [Alpha-Beta vs Scout Algorithms for the Othello Game](http://ceur-ws.org/Vol-2486/icaiw_wdea_3.pdf)
 * [La base WTHOR](https://www.ffothello.org/informatique/la-base-wthor/)
   * [オセロの棋譜データベースWTHORの読み込み方](https://qiita.com/tanaka-a/items/e21d32d2931a24cfdc97)
