@@ -39,7 +39,7 @@
       * [Ⅶ. 議論](translations/Learning_to_Play_Othello_with_Deep_Neural_Networks/README.md#ⅶ-議論)
       * [Ⅷ. 結論](translations/Learning_to_Play_Othello_with_Deep_Neural_Networks/README.md#ⅷ-結論)
 
-<!-- Added by: shimizunaoki, at: 2020年 11月18日 水曜日 01時49分43秒 JST -->
+<!-- Added by: shimizunaoki, at: 2020年 11月21日 土曜日 21時08分40秒 JST -->
 
 <!--te-->
 

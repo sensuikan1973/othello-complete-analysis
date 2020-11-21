@@ -45,7 +45,7 @@ Logistello や Edax の偉大さとそれを支える技術、昨今の Neural n
       * [有益なリンク](translations/Developing_an_Artificial_Intelligence_for_Othello/README.md#有益なリンク)
       * [法的な言及](translations/Developing_an_Artificial_Intelligence_for_Othello/README.md#法的な言及)
 
-<!-- Added by: shimizunaoki, at: 2020年 11月18日 水曜日 01時49分45秒 JST -->
+<!-- Added by: shimizunaoki, at: 2020年 11月21日 土曜日 21時08分42秒 JST -->
 
 <!--te-->
 

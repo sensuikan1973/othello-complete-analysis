@@ -39,7 +39,7 @@
             * [General](README.md#general)
          * [IaaS Document](README.md#iaas-document)
 
-<!-- Added by: shimizunaoki, at: 2020年 11月18日 水曜日 01時49分42秒 JST -->
+<!-- Added by: shimizunaoki, at: 2020年 11月21日 土曜日 21時08分39秒 JST -->
 
 <!--te-->
 
