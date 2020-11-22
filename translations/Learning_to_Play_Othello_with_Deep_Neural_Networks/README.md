@@ -525,5 +525,15 @@ Logistello[7]と Edax は、ゲームの各ステージで異なる評価関数�
 他には、確かな拡張として、着手するプレイヤーに関する情報を追加することが考えられます。これは、オセロが非対称ゲームであることを考えると有益でしょう。  
 最後になりますが、ここで証明された、畳み込まれた特徴の有用性を考えると、着手予測子の教師あり学習以外の文脈でそれらの特徴を検証することは興味深いと思います。例えば、強化学習法で訓練された状態あるいは評価関数として。
 
+## 謝辞
+
+P. Liskowskiは、ポーランドの国立科学センターから資金提供(2014/15/N/ST6/04572)を受け、感謝しています。  
+W. Jaskowskiは、Ministry of Science と "MobilityPlus" からの資金提供(1296/MOB/IV/2015/0)を受け、感謝しています。  
+K. Krawiec は、ポーランドの国立科学センターの助成金サポート(2014/15/B/ST6/05205​​)を受けました。
+
+## 参考文献
+
+a
+
 ---
 [![source](https://img.shields.io/badge/source-black.svg?logo=github)](https://github.com/sensuikan1973/othello-complete-analysis/tree/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks)
