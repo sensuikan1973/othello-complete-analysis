@@ -288,7 +288,7 @@ vmoves の相対的なパフォーマンスの低下は不可解です。なぜ�
 
 #### 3) 正則化とバギングの影響
 
-表Ⅴ: ドロップアウト,バチ正則化,バギングが予測精度に及ぼす影響。pieces エンコーディングを使っています。
+表Ⅴ: ドロップアウト,バッチ正則化,バギングが予測精度に及ぼす影響。pieces エンコーディングを使っています。
 ![table5](https://raw.githubusercontent.com/sensuikan1973/othello-complete-analysis/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks/images/table5.png)
 
 <!-- TODO: だいぶ怪しい。ここから。 -->
