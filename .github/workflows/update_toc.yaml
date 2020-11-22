@@ -12,7 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-          curl https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc -o gh-md-toc
+          # NOTE: "0.7.0" はエンコーディングが壊れてる(https://github.com/ekalinin/github-markdown-toc/issues/77)ので、"0.6.2"を使う
+          curl https://raw.githubusercontent.com/ekalinin/github-markdown-toc/d8a8c9bccb18b0ed4f718ae17226b3e049b460a7/gh-md-toc -o gh-md-toc
           chmod a+x gh-md-toc
           ./scripts/gen_toc.sh
       - uses: stefanzweifel/git-auto-commit-action@v4
