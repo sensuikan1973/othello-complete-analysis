@@ -2,7 +2,7 @@
 on:
   push:
     branches: [main]
-    paths: ['**/README.md']
+    paths: ['**/README.md', '.github/workflows/post_qiita.yaml']
 
 jobs:
   post_qiita:
