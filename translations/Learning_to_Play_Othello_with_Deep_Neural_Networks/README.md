@@ -7,7 +7,7 @@
 なお、原文では VI-B の図 IV が欠けていますが、著者から直接提供いただき許可を得て掲載しています。  
 また、註については原文を参照して下さい。
 
-筆者が当分野の専門家でないために理解が及ばず、翻訳がいまいちな部分もあるかと思います。有識者の方は [Pull Request](https://github.com/sensuikan1973/othello-complete-analysis/tree/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks) 送って下さると喜びます...🙏
+筆者は当分野に精通しているわけではないために、間違いや補足等あれば [Pull Request](https://github.com/sensuikan1973/othello-complete-analysis/tree/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks) 送って下さると喜びます...🙏
 
 【目次】
 <!--ts-->
