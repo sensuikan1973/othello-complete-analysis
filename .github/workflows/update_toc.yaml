@@ -1,7 +1,7 @@
 on:
   push:
     branches: [main]
-    paths: ['**/README*.md', '.github/workflows/update_toc.yaml']
+    paths: ['**/README*.md', '.github/workflows/update_toc.yaml', 'scripts/gen_toc.sh']
 
 jobs:
   update_toc:
