@@ -544,7 +544,7 @@ Siang Y. Chong, 2005。
 Emilie Kaufmann, Olivier Cappe, Aurelien Garivier , 2012。
 モンテカルロ木探索における UCB アルゴリズムを理解して使用するために不可欠な論文。
 
-## ツーリング　
+## Tooling
 
 ### プログラミング
 
