@@ -1,6 +1,6 @@
 on:
   push:
-    branches: [main]
+    branches: [changeme] # 今のところ不要
     paths: ['**/README*.md']
 
 jobs:
