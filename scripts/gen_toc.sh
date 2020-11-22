@@ -1,8 +1,11 @@
 #!/bin/sh
+# markdown の Table Of Contents(TOC) を生成する script
 
-# 目次生成
+# 本文
 ./gh-md-toc --insert --no-backup README.md
 
+# 翻訳
+# カレントディレクトリを反映してパスが挿入されるので、GitHub のリンク仕様上、cd しておかないとリンクが壊れる
 cd translations/Developing_an_Artificial_Intelligence_for_Othello
 ./../../gh-md-toc --insert --no-backup README.md
 
