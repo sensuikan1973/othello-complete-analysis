@@ -1,5 +1,6 @@
 #!/bin/sh
 # markdown の Table Of Contents(TOC) を生成する script
+# See: https://github.com/ekalinin/github-markdown-toc
 
 # 本文
 ./gh-md-toc --insert --no-backup README.md
