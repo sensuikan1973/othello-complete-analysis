@@ -136,7 +136,7 @@ Edax は高度に最適化されており、ディープツリー minimax のよ
 どちらのプレイヤーにも合法手がない場合、ゲームは終了し、盤面上により多くの石があるプレイヤーの勝ちになります。もし両プレイヤーが同数の石数であった場合、ゲームは引分となります。  
 このように、単純なルールにも関わらず、オセロのゲーム性は決して薄くありません
 
-合法手の数は、およそ 1028 であり、ゲームツリーには 10 ^ 58 ノードの計算量があります。[1]  
+合法手の数は、およそ 1028 であり、ゲームツリーには 10 ^ 58 ノードの計算量があります。[^1]  
 そのため、徹底的な検索方法は阻まれてしまいます。  
 オセロはまた、時間的な変動性が高いという特徴もあります。1 回の着手で多数の石が反転することがあり、盤面の状態が劇的に変化します。  
 これらの特徴と、ゲームがまだ完全に解析されていないという事実により、オセロは計算知能手法にとって興味深い実験台となっています。
@@ -533,7 +533,7 @@ K. Krawiec は、ポーランドの国立科学センターの助成金サポー
 
 ## 参考文献
 
-a
+[^1]: http://fragrieu.free.fr/SearchingForSolutions.pdf
 
 ---
 [![source](https://img.shields.io/badge/source-black.svg?logo=github)](https://github.com/sensuikan1973/othello-complete-analysis/tree/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks)
