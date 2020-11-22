@@ -201,16 +201,14 @@ ReLU は、squeezing-function ユニット(例えば シグモイド関数や ta
 表Ⅰ: 実験で使用された CNN アーキテクチャ。層の命名は、特徴マップの数に従っている。  
 ![table1](https://raw.githubusercontent.com/sensuikan1973/othello-complete-analysis/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks/images/table1.png)
 
-<!-- TODO: だいぶ怪しい。ここから。 -->
 各アーキテクチャでは、入力は、3×3 RF とスライドが 1 に設定された、64, 128 あるいは 256 の特徴マップで構成される畳み込み層のスタックを通過します。  
 入力は非常に小さいため、畳み込み後の空間解像度を維持するために、グリッドの境界をゼロ埋めします。(RF が入力グリッドを超えて到達できるようにする)  
-同じ理由で、小さな入力グリッドの場合の理論的な根拠がほとんどないため、畳み込み以外の方法で複数ユニットの出力を集約するなどのいかなる形式のプーリングを行いません[36]。
+同じ理由で、小さな入力グリッドの場合は理論的な根拠が少ないため、畳み込み以外の方法で複数ユニットの出力を集約するなどのいかなる形式のプーリングを行わないことにします[36]。
 したがって、全レイヤーの全ての特徴マップは 8×8 ユニットになります。  
 全てのアーキテクチャで、畳み込み層(conv)のスタックの後に 2 つの全結合層(fc)が続きます。  
 隠れ層は、ReLU による活性化を備えた 128 ユニットで構成され、出力層は着手候補 60 個に対応する K = 60 のユニットを持ちます。  
-各出力 y(k) は、単一の盤面位置に対応し、必要な着手はバイナリ 1 of K エンコーディング(one-hot エンコーディング)を使用してエンコードされます。  
+各出力 y(k) は、単一の局面に対応し、必要な着手はバイナリ 1 of K エンコーディング(one-hot エンコーディング)を用してエンコードされます。  
 出力値を確率として解釈するには、合計を 1 にする必要があります。これは、 softmax 変換を使用して実現されます。  
-<!-- TODO: だいぶ怪しい。ここまで。 -->
 
 ![formula3](https://raw.githubusercontent.com/sensuikan1973/othello-complete-analysis/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks/images/formula3.png)
 
