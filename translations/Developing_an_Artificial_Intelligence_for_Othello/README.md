@@ -45,7 +45,7 @@ Logistello や Edax の偉大さとそれを支える技術、昨今の Neural n
       * [有益なリンク](#有益なリンク)
       * [法的な言及](#法的な言及)
 
-<!-- Added by: shimizunaoki, at: 2020年 11月23日 月曜日 04時10分39秒 JST -->
+<!-- Added by: shimizunaoki, at: 2020年 11月23日 月曜日 04時24分36秒 JST -->
 
 <!--te-->
 
