@@ -39,7 +39,7 @@
             * [General](#general)
          * [IaaS Document](#iaas-document)
 
-<!-- Added by: shimizunaoki, at: 2020年 11月23日 月曜日 04時43分53秒 JST -->
+<!-- Added by: runner, at: Sun Nov 22 19:48:15 UTC 2020 -->
 
 <!--te-->
 

@@ -40,7 +40,7 @@
       * [Ⅷ. 結論](#ⅷ-結論)
       * [謝辞](#謝辞)
 
-<!-- Added by: shimizunaoki, at: 2020年 11月23日 月曜日 04時43分55秒 JST -->
+<!-- Added by: runner, at: Sun Nov 22 19:48:17 UTC 2020 -->
 
 <!--te-->
 
