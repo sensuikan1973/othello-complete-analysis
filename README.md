@@ -269,6 +269,7 @@ aaa
 #### Shogi
 * [Apery](https://github.com/HiraokaTakuya/apery)
 * [やねうら王](https://github.com/yaneurao/YaneuraOu)
+* [elmo](https://mk-takizawa.github.io/elmo/howtouse_elmo.html)
 * [コンピュータ将棋のHASHの概念について詳しく](http://yaneuraou.yaneu.com/2018/11/18/%e3%80%90%e6%b1%ba%e5%ae%9a%e7%89%88%e3%80%91%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e5%b0%86%e6%a3%8b%e3%81%aehash%e3%81%ae%e6%a6%82%e5%bf%b5%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/)
 * [Bonanza](https://forest.watch.impress.co.jp/library/software/bonanza/)
 * [KENTO](https://note.com/shogi_kento/n/ncc05cc261b7e)
