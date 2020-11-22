@@ -216,7 +216,7 @@ ReLU は、squeezing-function ユニット(例えば シグモイド関数や ta
 つまり ![formula4](https://raw.githubusercontent.com/sensuikan1973/othello-complete-analysis/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks/images/formula4.png)
 
 表Ⅰに示されているアーキテクチャは、一連の予備実験の結果です。畳み込み層を 8 より多くしても、訓練時間が大幅に長くなるだけで、パフォーマンスは向上しないことが分かりました。  
-また、実行時間と精度とのトレードオフを考慮すると、大きな RF を使用するよりも、小さな 小さな 3×3 RF + 深いネットワークの方が比較的効率が良いと判明しました。
+また、実行時間と精度とのトレードオフを考慮すると、大きな RF を使用するよりも、小さな 3×3 RF + 深いネットワークの方が効率的であると判明しました。
 
 ## V. 着手予測精度の実験
 
