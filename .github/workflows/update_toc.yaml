@@ -1,12 +1,14 @@
 on:
   push:
-    branches: [changeme] # 今のところ不要
-    paths: ['**/README*.md']
+    branches: [main]
+    paths: ['**/README*.md', '.github/workflows/update_toc.yaml']
 
 jobs:
   update_toc:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    env:
+      LANG: "ja_JP.UTF-8"
     steps:
       - uses: actions/checkout@v2
       - run: |
