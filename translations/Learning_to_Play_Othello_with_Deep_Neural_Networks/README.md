@@ -2,7 +2,7 @@
 
 ![thumbnail](https://raw.githubusercontent.com/sensuikan1973/othello-complete-analysis/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks/images/thumbnail.png)
 
-[Learning to Play Othello with Deep Neural Networks](https://arxiv.org/abs/1711.06583) の日本語訳です。
+オセロプログラム [FOREST](https://ocasile.pagesperso-orange.fr/forest.htm) を開発した方の記事、[Learning to Play Othello with Deep Neural Networks](https://arxiv.org/abs/1711.06583) の日本語訳です。
 著者に許可をいただいて公開しています。  
 なお、原文では VI-B の図 IV が欠けていますが、著者から直接提供いただき許可を得て掲載しています。  
 また、脚注については原文を参照して下さい。
