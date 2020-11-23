@@ -39,13 +39,13 @@ Logistello や Edax の偉大さとそれを支える技術、昨今の Neural n
          * [<a href="https://docplayer.net/54026159-Linear-versus-non-linear-learning-in-the-context-of-othello.html" rel="nofollow">Linear versus Non-Linear Learning in the Context of Othello</a>](#linear-versus-non-linear-learning-in-the-context-of-othello)
          * [<a href="https://ocasile.pagesperso-orange.fr/www.xiaotu.com/pub/ChonS05a.pdf" rel="nofollow">Observing the Evolution of Neural Networks, Learning to Play the Game of Othello</a>](#observing-the-evolution-of-neural-networks-learning-to-play-the-game-of-othello)
          * [<a href="http://proceedings.mlr.press/v22/kaufmann12/kaufmann12.pdf" rel="nofollow">On Bayesian Upper Confidence Bounds for Bandit Problems</a>](#on-bayesian-upper-confidence-bounds-for-bandit-problems)
-      * [ツーリング　](#ツーリング)
+      * [Tooling](#tooling)
          * [プログラミング](#プログラミング)
          * [深層学習](#深層学習)
       * [有益なリンク](#有益なリンク)
       * [法的な言及](#法的な言及)
 
-<!-- Added by: runner, at: Sun Nov 22 19:48:16 UTC 2020 -->
+<!-- Added by: runner, at: Sun Nov 22 20:11:41 UTC 2020 -->
 
 <!--te-->
 
