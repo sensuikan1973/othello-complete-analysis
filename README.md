@@ -121,6 +121,11 @@ _最高の環境_ に必要だと思うため。
 
 オセロのツリー複雑度は [Searching for Solutions in Games and Articial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf) によると、およそ **10^58** 
 
+10^28 と向き合う必要がある。  
+単純な状態数(生じうる局面数): 3^64  
+真ん中4つが空はありえない:  - 3^60 
+独立した石の存在はありえない: - 4*(3^60*2) - 4*(3^60*4) - 4*(3^60*8) - 60 - (2^16)*4 <!-- TODO: 計算-->
+
 ```
 Othello is a diverging, perfect-information game with xed termination.
 The state-space complexity of othello has an upper bound of 3^64 (≒ 10^30).
