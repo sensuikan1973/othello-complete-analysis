@@ -1,5 +1,4 @@
 # [WIP] オセロの完全解析、どうやるか? いくらかかるか?
-
 <p align="center">
    <img src="https://raw.githubusercontent.com/sensuikan1973/othello-complete-analysis/main/images/head_image.png" width="300">
 </p>
