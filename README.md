@@ -118,7 +118,17 @@ _最高の環境_ に必要だと思うため。
 * 費用の工面法
 
 ### _完全_ とは
-[Searching for Solutions in Games and Articial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf)
+
+オセロのツリー複雑度は [Searching for Solutions in Games and Articial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf) によると、およそ **10^58** 
+
+```
+Othello is a diverging, perfect-information game with xed termination.
+The state-space complexity of othello has an upper bound of 3^64 (≒ 10^30).
+Several legality tests, such as that the four center squares should not be empty and that the occupied squares must form a connected set,
+reduced the upper bound in a Monte-Carlo analysis to approximately 10^28.
+To calculate the game-tree complexity of othello, we assume an average game length of 58 ply.
+With a conservative estimate of the average number of moves per position set at 10, we obtain a game-tree complexity of 10^58.
+```
 
 ### 使うソフトウェアは?
 勝負は横に並べてのスケールをどこまで頑張れるか。  
@@ -282,6 +292,7 @@ aaa
 * [四路盤囲碁の完全解析](http://id.nii.ac.jp/1001/00058633/)
 
 #### General
+* [Game complexity](https://en.wikipedia.org/wiki/Game_complexity)
 * [A Deep Dive into Monte Carlo Tree Search](http://www.moderndescartes.com/essays/deep_dive_mcts/)
 * [並列コンピュータ 非定量的アプローチ](https://www.ohmsha.co.jp/book/9784274225710/)
 * [並行コンピューティング技法 --実践マルチコア/マルチスレッドプログラミング](https://www.oreilly.co.jp/books/9784873114354/)
