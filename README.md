@@ -244,6 +244,7 @@ aaa
 * OLIVAW
   * [OLIVAW: reaching superhuman strength at Othello](https://www.slideshare.net/MeetupDataScienceRoma/olivaw-reaching-superhuman-strength-at-othello)
 * [Booby Reversi](http://www.amy.hi-ho.ne.jp/okuhara/index.htm)
+* [Tothello](http://www.tothello.com/index.html)
 * Others
   * [Alpha Zero General](https://github.com/suragnair/alpha-zero-general)
   * [reversi-alpha-zero](https://github.com/mokemokechicken/reversi-alpha-zero)
