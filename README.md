@@ -255,6 +255,7 @@ aaa
 #### Othello
 * [Computer Othello | Wikipedia](https://en.wikipedia.org/wiki/Computer_Othello)
 * [Searching for Solutions in Games and Articial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf)
+* [Optimizing Search Space of Othello Using Hybrid Approach](https://www.researchgate.net/publication/289505529_Optimizing_Search_Space_of_Othello_Using_Hybrid_Approach)
 * [Alpha-Beta vs Scout Algorithms for the Othello Game](http://ceur-ws.org/Vol-2486/icaiw_wdea_3.pdf)
 * [La base WTHOR](https://www.ffothello.org/informatique/la-base-wthor/)
   * [オセロの棋譜データベースWTHORの読み込み方](https://qiita.com/tanaka-a/items/e21d32d2931a24cfdc97)
