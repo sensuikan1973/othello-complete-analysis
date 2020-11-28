@@ -51,11 +51,11 @@
 エイトスターズオセロやグランドオセロ、[XOT](http://berg.earthlingz.de/xot/aboutxot.php?lang=en)などの派生競技は含めません。
 
 ### そもそも何のために完全解析したいの?
-_最高の環境_ に必要だと思うので。  
+_最高の環境_ に必要だと思うため。  
 詳しくは[後述](#学習データの活用)。
 
 ### 現在の解析状況
-前提としてざっくり書いておく。
+前提としてざっくり書いておきます。
 
 * 黒と白が最善を尽くせば `引分` と考えられてるが、完全解析は済んでない。
 * 人間 vs ソフトの話は[昔話](https://www.skatgame.net/mburo/event.html)で、今はいかに上手く _活用_ するかが焦点。
@@ -65,20 +65,20 @@ _最高の環境_ に必要だと思うので。
   でも覚えきれないので、「人に勝つための定石をいかに研究しておくか」+「未知の局面に対応する力をいかに磨けるか」が重要な昨今。<br/>
 
 ### ソフトの活用 〜世界大会を例に〜
-オセロに馴染みがない人向けに、具体例を挙げて簡単に説明しておく。  
+オセロ大会に馴染みがない人向けに、具体例を挙げて簡単に説明しておきます。  
 これは [World Othello Championship 2019 の決勝戦第 3 局](http://transcripts.worldothello.org/woc_history/2019/transcripts/round_14/html/TAKAHASHI%20Aki-TAKANASHI%20Yus_2.htm)の序盤(黒番)。  
 <img src="https://raw.githubusercontent.com/sensuikan1973/othello-complete-analysis/main/images/woc_2019_third_day_3th_game_opening.png" width="200"/>  
-この局面、`d7` が最善手とされているが、黒は _あえて_`c6` を打ちました。  
+この局面、`d7` が最善手とされていますが、黒は _あえて_ `c6` に着手しました。  
 そして、その後も _あえて_ 最善とされる手ではない所に着手し、自身の得意な進行に持ち込んで行きました。  
 このように、`自分の得意な形の進行や相手の研究が手薄そうな進行`に持ち込むために、事前にソフトで研究しているのです。  
-大会だと相手は人間であり、ソフトと違ってどっかしらでミスをするので、最善進行のみにこだわる理由は薄いのです。
+大会だと相手は人間であり、ソフトと違ってどっかしらでミスをするので、最善進行のみにこだわる理由はほぼ無いのです。
 
 また、_お互いに最後まで研究範囲のまま終局_ みたいな試合も起きえます。  
 これは [World Othello Championship 2019 の決勝戦第 2 局](http://transcripts.worldothello.org/woc_history/2019/transcripts/round_14/html/TAKANASHI%20Yus-TAKAHASHI%20Aki.htm)の終局図。  
 <img src="https://raw.githubusercontent.com/sensuikan1973/othello-complete-analysis/main/images/woc_2019_third_day_2th_game_ending.png" width="200"/>  
 引分です。これ、お互いに永遠に最善を打ち続けただけです。  
-このように、特定の進行について研究通り 60 手打ち終える ことがたまに発生します。  
-現在のオセロ界におけるソフト活用話は、主旨とずれるので詳細は省略します。もう少し知りたい方には、[すりっぱさんのスライド](https://www.slideshare.net/bakumomoki/ss-72668518)がオススメです。
+このように、特定の進行について研究通り 60 手打ち終える ということがたまに発生します。  
+現在のオセロ界におけるソフト活用話は、主旨とずれるので詳細は省略します。もう少し知りたい方には、[中森弘樹六段のスライド](https://www.slideshare.net/bakumomoki/ss-72668518)がオススメです。
 
 皆めちゃくちゃソフトを活用してます。
 
