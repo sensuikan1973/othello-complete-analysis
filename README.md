@@ -116,6 +116,9 @@ _最高の環境_ に必要だと思うため。
 * [参考](#参考)にもいくつか挙げたような、`最強の AI` の話
 * 費用の工面法
 
+### _完全_ とは
+[Searching for Solutions in Games and Articial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf)
+
 ### 使うソフトウェアは?
 勝負は横に並べてのスケールをどこまで頑張れるか。  
 最終的には、担当する分岐量が最大であったノードの実行時間が全体の実行時間になる。  
@@ -229,6 +232,7 @@ aaa
   * See also: https://github.com/sensuikan1973/othello-complete-analysis/issues/1#issuecomment-716798458
 * OLIVAW
   * [OLIVAW: reaching superhuman strength at Othello](https://www.slideshare.net/MeetupDataScienceRoma/olivaw-reaching-superhuman-strength-at-othello)
+* [Booby Reversi](http://www.amy.hi-ho.ne.jp/okuhara/index.htm)
 * Others
   * [Alpha Zero General](https://github.com/suragnair/alpha-zero-general)
   * [reversi-alpha-zero](https://github.com/mokemokechicken/reversi-alpha-zero)
@@ -238,6 +242,7 @@ aaa
 
 #### Othello
 * [Computer Othello | Wikipedia](https://en.wikipedia.org/wiki/Computer_Othello)
+* [Searching for Solutions in Games and Articial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf)
 * [Alpha-Beta vs Scout Algorithms for the Othello Game](http://ceur-ws.org/Vol-2486/icaiw_wdea_3.pdf)
 * [La base WTHOR](https://www.ffothello.org/informatique/la-base-wthor/)
   * [オセロの棋譜データベースWTHORの読み込み方](https://qiita.com/tanaka-a/items/e21d32d2931a24cfdc97)
