@@ -293,6 +293,7 @@ aaa
 
 #### General
 * [Game complexity](https://en.wikipedia.org/wiki/Game_complexity)
+* [An estimation method for game complexity](https://arxiv.org/abs/1901.11161)
 * [A Deep Dive into Monte Carlo Tree Search](http://www.moderndescartes.com/essays/deep_dive_mcts/)
 * [並列コンピュータ 非定量的アプローチ](https://www.ohmsha.co.jp/book/9784274225710/)
 * [並行コンピューティング技法 --実践マルチコア/マルチスレッドプログラミング](https://www.oreilly.co.jp/books/9784873114354/)
