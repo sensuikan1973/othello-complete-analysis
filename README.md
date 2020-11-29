@@ -120,11 +120,14 @@ _最高の環境_ に必要だと思うため。
 ### _完全_ とは
 先述の通り、ありうる局面のパターンを意味するが、具体的に何パターンの話なのか。  
 オセロのツリー複雑度は [Searching for Solutions in Games and Articial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf) によると、およそ **10^58**
+状態空間は [Optimizing Search Space of Othello Using Hybrid Approach](https://www.researchgate.net/publication/289505529_Optimizing_Search_Space_of_Othello_Using_Hybrid_Approach) 10^28
 
-10^28 と向き合う必要がある。  
-単純な状態数(生じうる局面数): 3^64  
-真ん中4つは必ず石がある:  - 3^60 - 4*(3^60*2) - 4*(3^60*4) - 4*(3^60*8)  
-独立した石の存在はありえない: - 60 - (2^16)*4 <!-- TODO: 計算-->  
+単純な状態数(生じうる局面数): 3^64 (≒ 10^30)
+真ん中4つとも空きマスはありえない:  - 3^60
+真ん中4つのうち3つ空きマスはありえない: - 4*(3^60*8)
+真ん中4つのうち2つ空きマスはありえない: - 4*(3^60*2)
+真ん中4つのうち1つ空きマスはありえない: - 4*(3^60*4)
+独立した石の存在はありえない: <!-- TODO: 計算-->  
 
 ```
 Othello is a diverging, perfect-information game with xed termination.
@@ -134,6 +137,10 @@ reduced the upper bound in a Monte-Carlo analysis to approximately 10^28.
 To calculate the game-tree complexity of othello, we assume an average game length of 58 ply.
 With a conservative estimate of the average number of moves per position set at 10, we obtain a game-tree complexity of 10^58.
 ```
+
+10^28 と向き合う必要がある。  
+
+aaa
 
 ### 使うソフトウェアは?
 勝負は横に並べてのスケールをどこまで頑張れるか。  
