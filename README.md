@@ -32,7 +32,7 @@
       * [結論](#結論)
       * [参考](#参考)
          * [Othello Software](#othello-software)
-         * [Others (Blog, Slide, Paper and so on)](#others-blog-slide-paper-and-so-on)
+         * [Others (Paper, Blog, Slide and so on)](#others-paper-blog-slide-and-so-on)
             * [Othello](#othello)
             * [Checker](#checker)
             * [Chess](#chess)
@@ -41,7 +41,7 @@
             * [General](#general)
          * [IaaS Document](#iaas-document)
 
-<!-- Added by: runner, at: Sun Nov 29 08:58:51 UTC 2020 -->
+<!-- Added by: runner, at: Sun Nov 29 10:33:38 UTC 2020 -->
 
 <!--te-->
 
