@@ -7,7 +7,6 @@
 # * [Optimizing Search Space of Othello Using Hybrid Approach](https://www.researchgate.net/publication/289505529_Optimizing_Search_Space_of_Othello_Using_Hybrid_Approach)
 #
 # ちなみに、game-tree complexity の話は [An estimation method for game complexity](https://arxiv.org/abs/1901.11161) が分かりやすい
-# あと、[wikipedia](https://en.wikipedia.org/wiki/Game_complexity) にはいろんなゲームのこの話がまとめられているので、おすすめ
 
 # @param [$1] formula. e.g. '3^64'
 bc_l() {
