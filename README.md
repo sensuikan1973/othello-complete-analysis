@@ -118,34 +118,8 @@ _最高の環境_ に必要だと思うため。
 * 費用の工面法
 
 ### _完全_ とは
-先述の通り、ありうる局面のパターンを意味するが、具体的に何パターンの話なのか。  
-オセロのツリー複雑度は [Searching for Solutions in Games and Artificial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf) によると、およそ **10^58**
-状態空間は [Optimizing Search Space of Othello Using Hybrid Approach](https://www.researchgate.net/publication/289505529_Optimizing_Search_Space_of_Othello_Using_Hybrid_Approach) 10^28
-
-単純な状態数(生じうる局面数): 3^64 (≒ 10^30)
-真ん中4つとも空きマスはありえない:  -3^60
-真ん中4つのうち3つ空きマスはありえない: -2*(3^60)*4
-真ん中4つのうち2つ空きマスはありえない: -2^2*(3^60)*4
-真ん中4つのうち1つ空きマスはありえない: -2^3*(3^60)*4
-独立した石の存在はありえない。中辺独立。: -2*(3^60)*20
-独立した石の存在はありえない。隅独立。: -2*(3^60)*4
-独立した石の存在はありえない。辺独立。: -2*(3^58)*24
-独立した石の存在はありえない。d3/f3/d6/f6独立。: -2*(3^57)*4
-
-3^64 -3^60 -4*(3^60*2) -4*(3^60*4) -4*(3^60*8) -2*(3^55)*20 -2*(3^60)*4 -2*(3^58)*24 -2*(3^57)*4
-
-```
-Othello is a diverging, perfect-information game with xed termination.
-The state-space complexity of othello has an upper bound of 3^64 (≒ 10^30).
-Several legality tests, such as that the four center squares should not be empty and that the occupied squares must form a connected set,
-reduced the upper bound in a Monte-Carlo analysis to approximately 10^28.
-To calculate the game-tree complexity of othello, we assume an average game length of 58 ply.
-With a conservative estimate of the average number of moves per position set at 10, we obtain a game-tree complexity of 10^58.
-```
-
-10^28 と向き合う必要がある。  
-
-aaa
+先述の通り、ありうる局面のパターンを意味するが、具体的に何パターンの話なのか?  
+詳細は[calc_state_complexity.sh](https://github.com/sensuikan1973/othello-complete-analysis/blob/main/scripts/calc_state_complexity.sh)に書いたのでそちらに譲りますが、およそ 10^28 の空間を網羅することを意味します。
 
 ### 使うソフトウェアは?
 勝負は横に並べてのスケールをどこまで頑張れるか。  
