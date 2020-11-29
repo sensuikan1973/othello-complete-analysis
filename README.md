@@ -51,7 +51,7 @@
 ## 序論 「オセロ界におけるソフト事情の概要」
 ### ここで言う「オセロ」の定義
 [「オセロ」の公式サイト](https://www.megahouse.co.jp/othello/what/)にある通り、`8 × 8` の大きさで、特定の初期配置から打ち進めるものを指すとします。  
-エイトスターズオセロやグランドオセロ、[XOT](http://berg.earthlingz.de/xot/aboutxot.php?lang=en)などの派生競技は含めません。
+エイトスターズオセロやグランドオセロなどの派生競技は含めません。
 
 ### そもそも何のために完全解析したいの?
 _最高の環境_ に必要だと思うため。  
@@ -259,6 +259,7 @@ aaa
 * [A World-Championship-Level Othello Program - 1981](https://apps.dtic.mil/dtic/tr/fulltext/u2/a106560.pdf)
 * [オセロ界はソフトといかに向き合ってきたか](https://www.slideshare.net/mobile/bakumomoki/ss-72668518)
 * [program rainting | World Othello Federation](https://www.worldothello.org/ratings/player?searchPlayerInput=+)
+* [XOT](http://berg.earthlingz.de/xot/aboutxot.php?lang=en)
 
 #### Checker
 * [Checker is Solved](https://science.sciencemag.org/content/317/5844/1518/tab-pdf)
