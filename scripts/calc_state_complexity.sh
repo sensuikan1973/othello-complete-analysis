@@ -24,5 +24,5 @@ center_one_square_empty=`bc_l '(3^60)*4*(2^3)'` # d4,d5,e4,e5 のうち1つが�
 illegal_cases=$(($center_four_squares_empty + $center_three_squares_empty + $center_two_squares_empty + $center_one_square_empty))
 
 result=`bc_l "$all_states_without_rule_limit - $illegal_cases"`
-exp=`echo "l($result)/l(10)" | bc -l | awk -F "." '{print$1}'`
+exp=`bc_l "l($result)/l(10)" | awk -F "." '{print$1}'`
 echo "10^$exp ($result)"
