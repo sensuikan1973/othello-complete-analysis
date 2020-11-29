@@ -119,7 +119,7 @@ _最高の環境_ に必要だと思うため。
 
 ### _完全_ とは
 先述の通り、ありうる局面のパターンを意味するが、具体的に何パターンの話なのか。  
-オセロのツリー複雑度は [Searching for Solutions in Games and Articial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf) によると、およそ **10^58**
+オセロのツリー複雑度は [Searching for Solutions in Games and Artificial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf) によると、およそ **10^58**
 状態空間は [Optimizing Search Space of Othello Using Hybrid Approach](https://www.researchgate.net/publication/289505529_Optimizing_Search_Space_of_Othello_Using_Hybrid_Approach) 10^28
 
 単純な状態数(生じうる局面数): 3^64 (≒ 10^30)
@@ -271,7 +271,7 @@ aaa
 
 #### Othello
 * [Computer Othello | Wikipedia](https://en.wikipedia.org/wiki/Computer_Othello)
-* [Searching for Solutions in Games and Articial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf)
+* [Searching for Solutions in Games and Artificial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf)
 * [Optimizing Search Space of Othello Using Hybrid Approach](https://www.researchgate.net/publication/289505529_Optimizing_Search_Space_of_Othello_Using_Hybrid_Approach)
 * [Complexity of Othello game](https://ci.nii.ac.jp/naid/110003191565)
 * [Alpha-Beta vs Scout Algorithms for the Othello Game](http://ceur-ws.org/Vol-2486/icaiw_wdea_3.pdf)

@@ -1,9 +1,10 @@
 #!/bin/sh
 
 # オセロの state-space complexity を概算する script
-# [Searching for Solutions in Games and Articial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf) や Optimizing Search Space of Othello Using Hybrid Approach](https://www.researchgate.net/publication/289505529_Optimizing_Search_Space_of_Othello_Using_Hybrid_Approach) にて、
+# [Searching for Solutions in Games and Artificial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf) や Optimizing Search Space of Othello Using Hybrid Approach](https://www.researchgate.net/publication/289505529_Optimizing_Search_Space_of_Othello_Using_Hybrid_Approach) にて、
 # 10^28 という主張が書かれてるが、導出過程が書かれてないので、それをやる script。
 # ちなみに、game-tree complexity の話は [An estimation method for game complexity](https://arxiv.org/abs/1901.11161) が分かりやすい
+# あと、[wikipedia](https://en.wikipedia.org/wiki/Game_complexity) にはいろんなゲームのこの話がまとめられているので、おすすめ
 
 # @param [$1] formula. e.g. '3^64'
 bc_l() {
