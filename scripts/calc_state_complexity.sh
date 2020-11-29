@@ -14,7 +14,7 @@ bc_l() {
 }
 
 # オセロのルールを度外視した、盤面状態の空間量
-all_states_without_rule_limit=`bc_l '3^64'` # ≒ 10^30
+all_states_without_rule_limit=`bc_l '3^64'` # ≈ 10^30
 
 # オセロのルールを考慮した、ありえない盤面状態の空間量
 center_four_squares_empty=`bc_l '3^60'` # d4,d5,e4,e5 全てが空きマス
