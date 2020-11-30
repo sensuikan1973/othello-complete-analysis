@@ -535,4 +535,7 @@ W. Jaskowskiは、Ministry of Science と "MobilityPlus" からの資金提供(1
 K. Krawiec は、ポーランドの国立科学センターの助成金サポート(2014/15/B/ST6/05205​​)を受けました。
 
 ---
+
+以上翻訳。
+
 [![source](https://img.shields.io/badge/source-black.svg?logo=github)](https://github.com/sensuikan1973/othello-complete-analysis/tree/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks)

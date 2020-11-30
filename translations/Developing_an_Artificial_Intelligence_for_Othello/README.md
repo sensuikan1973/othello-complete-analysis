@@ -598,4 +598,7 @@ Python だけでも非常に優れていますが、その能力のほとんど�
 * TensorFlow は、Google Inc の商標です。
 
 ---
+
+以上翻訳。
+
 [![source](https://img.shields.io/badge/source-black.svg?logo=github)](https://github.com/sensuikan1973/othello-complete-analysis/tree/main/translations/Developing_an_Artificial_Intelligence_for_Othello)
