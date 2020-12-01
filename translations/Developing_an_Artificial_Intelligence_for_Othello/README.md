@@ -3,11 +3,11 @@
 ![thumbnail](https://raw.githubusercontent.com/sensuikan1973/othello-complete-analysis/main/translations/Developing_an_Artificial_Intelligence_for_Othello/images/thumbnail.png)
 
 オセロプログラム [FOREST](https://ocasile.pagesperso-orange.fr/forest.htm) を開発した方の記事、[Developing an Artificial Intelligence for Othello/Reversi](https://ocasile.pagesperso-orange.fr/neurone.htm) の日本語訳です。  
-著者に許可をいただいて公開しています。  
+FOREST 作者に許可をいただいて公開しています。  
 執筆時期がやや昔であり、最新の情報を踏まえると異なる見解があるかもしれませんが、オセロ AI 開発全貌を知るにはとても良い記事だと思いました。  
 Logistello や Edax の偉大さとそれを支える技術、昨今の Neural networks による試みまでを、ざっくり(/時に深く)説明してくれています。
 
-**筆者の方が指摘(See: [issues/1#issuecomment-716798458](https://github.com/sensuikan1973/othello-complete-analysis/issues/1#issuecomment-716798458))しているように、最近の進捗が反映されてない点には留意してください。今後最新情報踏まえて更新予定あるようなのでメッチャ楽しみですね。**
+**[FOREST 作者が指摘してくれている](https://github.com/sensuikan1973/othello-complete-analysis/issues/1#issuecomment-716798458)ように、最近の進捗が反映されてない点には留意してください。今後最新情報踏まえて更新予定あるようなのでメッチャ楽しみですね。**
 
 【目次】
 <!--ts-->
