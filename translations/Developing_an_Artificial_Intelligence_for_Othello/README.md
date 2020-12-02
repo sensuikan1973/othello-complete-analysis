@@ -505,19 +505,19 @@ Logistello が登場する前の、最初期の強豪プログラムの 1 つで
 Michael Buro, 2002。  
 有名な Logistello プログラムの作者である MichaelBuro による必読の論文です。  
 効率的な評価関数を数学的に決定する方法を初めて説明しました。  
-Michael はロジスティック回帰手法を使用しましたが、彼の教師あり学習方法論の原則は、今日でもニューラルネットワークに適用されます。
+Michael はロジスティック回帰手法を使用しましたが、彼の教師あり学習方法論の原則は、今日でもニューラルネットワークに適用されています。
 
 ### [The evolution of Strong Othello programs](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.16.9096)
 
 Michael Buro, 2003。  
 有名な Logiustello プログラム作者による論文。  
-IAGO 以降の強力なオセロプログラムの進捗状況と、手作りの評価関数を Logistello や数学的に調整された評価関数へと変えていった話。
+IAGO 以降の強力なオセロプログラムの進捗状況と、手作りの評価関数を Logistello や数学的に調整された評価関数へと変えていった話が書かれています。
 
 ### [Experiments with Multi-ProbCut and a new High-Quality evaluation Function for Othello](https://skatgame.net/mburo/ps/improve.pdf)
 
 Michael Buro, 2000。  
 Michael Buro による優れた論文。  
-αβ 探索木を刈り込みし、探索深度を劇的に増大させることができる Multi-ProbCut 手法について。
+αβ 探索木を刈り込みし、探索深度を劇的に増大させることができる Multi-ProbCut 手法について書かれています。
 
 ### [Toward Opening Book Learning](https://skatgame.net/mburo/ps/book.pdf)
 
@@ -528,7 +528,7 @@ Michael Buro, 2000。
 ### [Knowledge-based feature discovery for evaluation functions](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8640.1996.tb00252.x)
 
 Tom E. Fawcet、1995。  
-オセロゲームの主要な特徴、つまり盤面配置の評価値(期待スコア)に重要な役割を果たす特性を発見するための、非常に興味深いアプローチ。
+オセロゲームの主要な特徴、つまり盤面配置の評価値(期待スコア)に重要な役割を果たす特性を発見するための、非常に興味深いアプローチの話です。
 
 ### [Linear versus Non-Linear Learning in the Context of Othello](https://docplayer.net/54026159-Linear-versus-non-linear-learning-in-the-context-of-othello.html)
 
