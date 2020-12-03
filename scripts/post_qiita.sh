@@ -26,21 +26,6 @@ post() {
   -d "$3"
 }
 
-
-## NOTE: 本文(README.md)
-markdown_path="README.md"
-generate_qiita_doc $markdown_path
-data=$(cat <<EOS
-{
-  "body": $(ruby -e 'p ARGF.read.sub(/\A---.*---/m, "")' $markdown_path.qiita),
-  "title": "オセロの完全解析、どうやるか? いくらかかるか?",
-  "private": true,
-  "tags": [ {"name":"オセロ"}, {"name":"ゲームAI"}, {"name":"機械学習"} ]
-}
-EOS
-)
-post "dd432a60208db9b62c56" ${QIITA_ACCESS_TOKEN} "${data}"
-
 ## NOTE: 翻訳(Developing_an_Artificial_Intelligence_for_Othello)
 markdown_path="translations/Developing_an_Artificial_Intelligence_for_Othello/README.md"
 generate_qiita_doc $markdown_path
@@ -81,3 +66,17 @@ data=$(cat <<EOS
 EOS
 )
 post "213d962d6e65c86e533a" ${QIITA_ACCESS_TOKEN} "${data}"
+
+## NOTE: 本文(README.md)
+markdown_path="README.md"
+generate_qiita_doc $markdown_path
+data=$(cat <<EOS
+{
+  "body": $(ruby -e 'p ARGF.read.sub(/\A---.*---/m, "")' $markdown_path.qiita),
+  "title": "オセロの完全解析、どうやるか? いくらかかるか?",
+  "private": true,
+  "tags": [ {"name":"オセロ"}, {"name":"ゲームAI"}, {"name":"機械学習"} ]
+}
+EOS
+)
+post "dd432a60208db9b62c56" ${QIITA_ACCESS_TOKEN} "${data}"
