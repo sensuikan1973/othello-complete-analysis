@@ -2,12 +2,12 @@
 
 ![thumbnail](https://raw.githubusercontent.com/sensuikan1973/othello-complete-analysis/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks/images/thumbnail.png)
 
-[Learning to Play Othello with Deep Neural Networks](https://arxiv.org/abs/1711.06583) という論文の日本語訳です。
+[Learning to Play Othello with Deep Neural Networks](https://arxiv.org/abs/1711.06583) といういかにも面白そうな論文の日本語訳です。
 著者に許可をいただいて公開しています。  
 なお、原文では VI-B の図 IV が欠けていますが、著者から直接提供いただき許可を得て掲載しています。  
 また、脚注については原文を参照して下さい。
 
-解釈間違いや補足等あれば [Pull Request](https://github.com/sensuikan1973/othello-complete-analysis/tree/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks) 送って下さると喜びます...🙏
+筆者の知識不足で解釈が怪しいところがあるかもしれません。もしありましたら、[Pull Request](https://github.com/sensuikan1973/othello-complete-analysis/tree/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks) 送って下さると喜びます...🙏
 
 【目次】
 <!--ts-->
