@@ -48,7 +48,6 @@ data=$(cat <<EOS
 {
   "body": $(ruby -e 'p ARGF.read.sub(/\A---.*---/m, "")' $markdown_path.qiita),
   "title": "[翻訳] Developing an Artificial Intelligence for Othello/Reversi",
-  "private": true,
   "tags": [ {"name":"オセロ"}, {"name":"ゲームAI"}, {"name":"機械学習"} ]
 }
 EOS
@@ -68,3 +67,17 @@ data=$(cat <<EOS
 EOS
 )
 post "7a4e2a9b8e09c1753fbf" ${QIITA_ACCESS_TOKEN} "${data}"
+
+## NOTE: 小テーマ「ゲーム複雑性」の話
+markdown_path="topics/game_complexity/README.md"
+generate_qiita_doc $markdown_path
+data=$(cat <<EOS
+{
+  "body": $(ruby -e 'p ARGF.read.sub(/\A---.*---/m, "")' $markdown_path.qiita),
+  "title": "オセロの「複雑性」",
+  "private": true,
+  "tags": [ {"name":"オセロ"}, {"name":"ゲームAI"} ]
+}
+EOS
+)
+post "213d962d6e65c86e533a" ${QIITA_ACCESS_TOKEN} "${data}"
