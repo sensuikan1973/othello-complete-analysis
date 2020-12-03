@@ -12,3 +12,6 @@ cd translations/Developing_an_Artificial_Intelligence_for_Othello
 
 cd ../Learning_to_Play_Othello_with_Deep_Neural_Networks
 ./../../gh-md-toc --insert --no-backup README.md
+
+cd ../../topics/game_complexity
+./../../gh-md-toc --insert --no-backup README.md
