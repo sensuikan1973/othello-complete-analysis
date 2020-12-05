@@ -7,7 +7,7 @@ Wojciech Jaskowski 氏らに許可をいただいて公開しています。
 なお、原文では VI-B の図 IV が欠けていますが、Wojciech Jaskowski 氏から直接提供いただき許可を得て掲載しています。  
 また、脚注については原文を参照して下さい。
 
-筆者の知識不足で解釈が怪しいところがあるかもしれません。もしありましたら、[Pull Request](https://github.com/sensuikan1973/othello-complete-analysis/tree/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks) 送って下さると喜びます...🙏
+筆者の勉強不足で解釈の怪しいところがあるかもしれません。詳しい方は [Pull Request](https://github.com/sensuikan1973/othello-complete-analysis/tree/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks) 送ってもらえると助かります🙏
 
 【目次】
 <!--ts-->
