@@ -7,6 +7,6 @@ TODO: かく
    * [オセロの「複雑性」](#オセロの複雑性)
       * [目次](#目次)
 
-<!-- Added by: runner, at: Thu Dec  3 17:33:25 UTC 2020 -->
+<!-- Added by: runner, at: Sat Dec  5 08:05:10 UTC 2020 -->
 
 <!--te-->
