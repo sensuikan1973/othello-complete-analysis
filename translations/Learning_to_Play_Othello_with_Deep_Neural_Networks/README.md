@@ -3,8 +3,8 @@
 ![thumbnail](https://raw.githubusercontent.com/sensuikan1973/othello-complete-analysis/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks/images/thumbnail.png)
 
 [Learning to Play Othello with Deep Neural Networks](https://arxiv.org/abs/1711.06583) といういかにも面白そうな論文の日本語訳です。
-著者に許可をいただいて公開しています。  
-なお、原文では VI-B の図 IV が欠けていますが、著者から直接提供いただき許可を得て掲載しています。  
+Wojciech Jaskowski 氏らに許可をいただいて公開しています。  
+なお、原文では VI-B の図 IV が欠けていますが、Wojciech Jaskowski 氏から直接提供いただき許可を得て掲載しています。  
 また、脚注については原文を参照して下さい。
 
 筆者の知識不足で解釈が怪しいところがあるかもしれません。もしありましたら、[Pull Request](https://github.com/sensuikan1973/othello-complete-analysis/tree/main/translations/Learning_to_Play_Othello_with_Deep_Neural_Networks) 送って下さると喜びます...🙏
@@ -425,7 +425,7 @@ Conv8+BN は最高の平均勝率を達成しました。ただし、CoCMAES-4+2
 図Ⅳでは、各プレイヤーのモデルや Edax-1 と直面した時について、この論文で評価した全てのネットワークについて後者を前者に対してプロットしています。  
 グラフは、非常に強い線形従属関係を示しています。(決定係数は、それぞれ r2=0.997、r2=0.999)  
 線形モデルの適合は、考慮された予測精度の範囲(57~64%)において、予測精度が 13 のプレイヤーに対して 1.7 % ポイント、Edax-1 に対して 3.4 % ポイントがもたらされることを示唆しています。  
-明らかに、Conv8+BN+バギング(右端の2つのデータポイント)に示されているように、この傾向は全体で維持されているとは言えません。  
+Conv8+BN+バギング(右端の2つのデータポイント)に示されているように、明らかに、この傾向が全体で維持されているとは言えません。  
 それは外れ値かもしれませんが、63 % という数値が、予測精度の更なる向上が勝率にあまり寄与しない閾値であることを示唆している可能性もあります。
 
 ### C. プレイ強さに対するデータ増強の効果
