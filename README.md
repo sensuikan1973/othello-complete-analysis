@@ -119,7 +119,7 @@ _最高の環境_ に必要だと思うため。
 
 ### _完全_ とは
 先述の通り、ありうる局面のパターンを意味するが、具体的に何パターンの話なのか?  
-詳細は [calc_state_complexity.sh](https://github.com/sensuikan1973/othello-complete-analysis/blob/main/scripts/calc_state_complexity.sh) に書いたのでそちらに譲りますが、およそ **10^28** の空間を網羅することを意味します。
+状態空間, ツリー空間
 
 ### 使うソフトウェアは?
 勝負は横に並べてのスケールをどこまで頑張れるか。  
