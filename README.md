@@ -238,6 +238,7 @@ aaa
 * [Booby Reversi](http://www.amy.hi-ho.ne.jp/okuhara/index.htm)
   * [リバーシのビットボードテクニック](http://www.amy.hi-ho.ne.jp/okuhara/bitboard.htm)
 * [Tothello](http://www.tothello.com/index.html)
+* [HAYABUSA](https://www.slideshare.net/uenokazu/20130906-hayabusa)
 * Others
   * [Alpha Zero General](https://github.com/suragnair/alpha-zero-general)
   * [reversi-alpha-zero](https://github.com/mokemokechicken/reversi-alpha-zero)
