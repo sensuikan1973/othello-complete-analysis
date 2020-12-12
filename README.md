@@ -211,8 +211,9 @@ aaa
 
 ### Othello Software
 * [edax](https://github.com/abulmo/edax-reversi)
-  * [Learning to Play Othello with Deep Neural Networks](https://arxiv.org/abs/1711.06583)
 * [Zebra](http://radagast.se/othello/zebra.html)
+  * [作者 Gunnar Andersson による解説記事など](http://radagast.se/othello/)
+    * Booby Reversi などで有名な[奥原氏の翻訳もある](http://www.amy.hi-ho.ne.jp/okuhara/howtoj.htm)
   * for Windows: [WZebra](http://radagast.se/othello/download.html)
   * for Linux: [LZebra](http://radagast.se/othello/download3.html)
   * for Android: [Reversatile (旧 DroidZebra)](https://play.google.com/store/apps/details?id=de.earthlingz.oerszebra)
@@ -235,6 +236,7 @@ aaa
 * OLIVAW
   * [OLIVAW: reaching superhuman strength at Othello](https://www.slideshare.net/MeetupDataScienceRoma/olivaw-reaching-superhuman-strength-at-othello)
 * [Booby Reversi](http://www.amy.hi-ho.ne.jp/okuhara/index.htm)
+  * [リバーシのビットボードテクニック](http://www.amy.hi-ho.ne.jp/okuhara/bitboard.htm)
 * [Tothello](http://www.tothello.com/index.html)
 * Others
   * [Alpha Zero General](https://github.com/suragnair/alpha-zero-general)
@@ -252,6 +254,7 @@ aaa
 * [Alpha-Beta vs Scout Algorithms for the Othello Game](http://ceur-ws.org/Vol-2486/icaiw_wdea_3.pdf)
 * [La base WTHOR](https://www.ffothello.org/informatique/la-base-wthor/)
   * [オセロの棋譜データベースWTHORの読み込み方](https://qiita.com/tanaka-a/items/e21d32d2931a24cfdc97)
+* [Learning to Play Othello with Deep Neural Networks](https://arxiv.org/abs/1711.06583)
 * [縮小盤オセロにおける完全解析](https://www.ipsj-kyushu.jp/page/ronbun/hinokuni/1004/1A/1A-2.pdf)
 * [オセロの完全解析を解説する](https://blog.sakasin.net/solving-othello)
 * [Alpha "Othello" Zero 深層強化学習の理論と実装](https://www.slideshare.net/takehiko-ohkawa/alphaothello-zero-127398324)
@@ -266,7 +269,7 @@ aaa
 * [Checker is Solved](https://science.sciencemag.org/content/317/5844/1518/tab-pdf)
 
 #### Chess
-* [Bitboards on the Chess Programming Wiki](https://www.chessprogramming.org/Bitboards)
+* [Bitboards on the Chess Programming Wiki](https://www.chessprogramming.org/Bitboards) : BitBoard のアルゴリズムの基礎を知るのにとても有用。チェスにとどまらず一般的な話もとても多い。
 * [LeelaChessZero](https://github.com/LeelaChessZero/lc0)
 * [Stockfish](https://github.com/official-stockfish)
 * [Stockfish完全解析](http://yaneuraou.yaneu.com/stockfish%e5%ae%8c%e5%85%a8%e8%a7%a3%e6%9e%90/)
