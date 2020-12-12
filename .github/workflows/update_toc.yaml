@@ -1,6 +1,6 @@
 on:
   push:
-    branches: [main]
+    branches: [changeme] # しばらくはとめておく
     paths: ['**/README*.md', '.github/workflows/update_toc.yaml', 'scripts/gen_toc.sh']
 
 jobs:
