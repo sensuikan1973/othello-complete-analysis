@@ -209,7 +209,8 @@ aaa
 
 ※ 一部の英語文献は、著者の許可を得て[日本語訳を公開してます](https://github.com/sensuikan1973/othello-complete-analysis/tree/main/translations)。
 
-### Othello Software
+### Othello
+#### Software
 * [edax](https://github.com/abulmo/edax-reversi)
 * [Zebra](http://radagast.se/othello/zebra.html)
   * [作者 Gunnar Andersson による解説記事など](http://radagast.se/othello/)
@@ -219,10 +220,7 @@ aaa
   * for Android: [Reversatile (旧 DroidZebra)](https://play.google.com/store/apps/details?id=de.earthlingz.oerszebra)
      * [Source Code](https://github.com/oers/reversatile)
 * [Logistello](https://www.skatgame.net/mburo/log.html)
-  * [Experiments with Multi-ProbCut and a New High-Quality Evaluation Function for Othello](https://skatgame.net/mburo/ps/improve.pdf)
-  * [Toward Opening Book Learning](https://skatgame.net/mburo/ps/book.pdf)
-  * [An evaluation function for Othello based on statistics](https://skatgame.net/mburo/ps/compoth.pdf)
-  * [The evolution of Strong Othello programs](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.16.9096)
+  * [paper list](https://skatgame.net/mburo/publications.html)
 * [Saio](https://www.romanobenedetto.it/Saio.htm)
   * [SAIO: UN SISTEMA ESPERTO PER ILGIOCO DELL’OTHELLO](https://www.romanobenedetto.it/tesi.pdf)
   * [ANALYZE: SAIO - World Othello Federation News](https://www.worldothello.org/news/131/analyze-saio)
@@ -244,11 +242,9 @@ aaa
   * [reversi-alpha-zero](https://github.com/mokemokechicken/reversi-alpha-zero)
   * [othello-zero](https://github.com/2Bear/othello-zero)
 
-### Others (Paper, Blog, Slide and so on)
-
-#### Othello
+#### Others (Paper, Blog, Slide, ...)
 * [Computer Othello | Wikipedia](https://en.wikipedia.org/wiki/Computer_Othello)
-* [Othello | Chess Programming Wiki](https://www.chessprogramming.org/Othello)
+* [Othello          | Chess Programming Wiki](https://www.chessprogramming.org/Othello)
 * [Searching for Solutions in Games and Artificial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf)
 * [Optimizing Search Space of Othello Using Hybrid Approach](https://www.researchgate.net/publication/289505529_Optimizing_Search_Space_of_Othello_Using_Hybrid_Approach)
 * [Complexity of Othello game](https://ci.nii.ac.jp/naid/110003191565)
@@ -265,17 +261,24 @@ aaa
 * [オセロ界はソフトといかに向き合ってきたか](https://www.slideshare.net/mobile/bakumomoki/ss-72668518)
 * [program rainting | World Othello Federation](https://www.worldothello.org/ratings/player?searchPlayerInput=+)
 * [XOT](http://berg.earthlingz.de/xot/aboutxot.php?lang=en)
+* [煮詰まった](http://f5-openning.blogspot.com/)
 
-#### Checker
-* [Checker is Solved](https://science.sciencemag.org/content/317/5844/1518/tab-pdf)
+### General
+* [Game complexity](https://en.wikipedia.org/wiki/Game_complexity) : ゲームの `複雑さ` がまとまった wiki。
+* [An estimation method for game complexity](https://arxiv.org/abs/1901.11161) : `Tree Size` (合法的なゲームの数)の複雑さの尺度を推定する方法を書いた論文
+* [A Deep Dive into Monte Carlo Tree Search](http://www.moderndescartes.com/essays/deep_dive_mcts/) : モンテカルロ木探索の詳細を解説する記事
 
+### Other Games
 #### Chess
-* [Bitboards on the Chess Programming Wiki](https://www.chessprogramming.org/Bitboards) : BitBoard のアルゴリズムの基礎を知るのにとても有用。チェスにとどまらず一般的な話もとても多い。
+* [Bitboards on the Chess Programming Wiki](https://www.chessprogramming.org/Bitboards) : BitBoard のアルゴリズムの基礎を知るのにとても有用。チェスの wiki という位置付けですが、内容は一般的に重要なものが多い。
 * [LeelaChessZero](https://github.com/LeelaChessZero/lc0)
 * [Stockfish](https://github.com/official-stockfish)
 * [Stockfish完全解析](http://yaneuraou.yaneu.com/stockfish%e5%ae%8c%e5%85%a8%e8%a7%a3%e6%9e%90/)
 * [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815)
 * [チェスの棋譜約220万戦を分析してわかったことを可視化](https://gigazine.net/news/20160301-chess-game-visual-look/)
+
+#### Checker
+* [Checker is Solved](https://science.sciencemag.org/content/317/5844/1518/tab-pdf)
 
 #### Shogi
 * [Apery](https://github.com/HiraokaTakuya/apery)
@@ -291,16 +294,9 @@ aaa
 * [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270)
 * [四路盤囲碁の完全解析](http://id.nii.ac.jp/1001/00058633/)
 
-#### General
-* [Game complexity](https://en.wikipedia.org/wiki/Game_complexity)
-* [An estimation method for game complexity](https://arxiv.org/abs/1901.11161)
-* [A Deep Dive into Monte Carlo Tree Search](http://www.moderndescartes.com/essays/deep_dive_mcts/)
-* [並列コンピュータ 非定量的アプローチ](https://www.ohmsha.co.jp/book/9784274225710/)
-* [並行コンピューティング技法 --実践マルチコア/マルチスレッドプログラミング](https://www.oreilly.co.jp/books/9784873114354/)
-* [Microsoft: Cloud Design Patterns](https://docs.microsoft.com/ja-jp/azure/architecture/patterns/)
-* [分散システムデザインパターン --コンテナを使ったスケーラブルなサービスの設計](https://www.oreilly.co.jp/books/9784873118758/)
+### Infrastructure
 
-### IaaS Document
+#### Services
 * [GCP](https://cloud.google.com/)
   * [GCE](https://cloud.google.com/compute)
   * [Dataproc](https://cloud.google.com/dataproc)
@@ -314,6 +310,12 @@ aaa
 * [Azure](https://azure.microsoft.com/)
   * [Virtual Machine](https://azure.microsoft.com/ja-jp/services/virtual-machines/)
   * [What is Apache Hadoop in Azure HDInsight?](https://docs.microsoft.com/ja-jp/azure/hdinsight/hadoop/apache-hadoop-introduction)
+
+#### Others
+* [並列コンピュータ 非定量的アプローチ](https://www.ohmsha.co.jp/book/9784274225710/)
+* [並行コンピューティング技法 --実践マルチコア/マルチスレッドプログラミング](https://www.oreilly.co.jp/books/9784873114354/)
+* [分散システムデザインパターン --コンテナを使ったスケーラブルなサービスの設計](https://www.oreilly.co.jp/books/9784873118758/)
+* [Microsoft: Cloud Design Patterns](https://docs.microsoft.com/ja-jp/azure/architecture/patterns/)
 
 ---
 [![source](https://img.shields.io/badge/source-black.svg?logo=github)](https://github.com/sensuikan1973/othello-complete-analysis)
