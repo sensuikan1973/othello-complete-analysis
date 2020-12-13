@@ -40,7 +40,7 @@ Wojciech Jaskowski 氏らに許可をいただいて公開しています。
       * [Ⅷ. 結論](#ⅷ-結論)
       * [謝辞](#謝辞)
 
-<!-- Added by: runner, at: Sat Dec 12 15:31:27 UTC 2020 -->
+<!-- Added by: shimizunaoki, at: 2020年 12月14日 月曜日 02時04分28秒 JST -->
 
 <!--te-->
 

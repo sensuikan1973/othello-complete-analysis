@@ -10,7 +10,6 @@
       * [想定読者](#想定読者)
       * [序論 「オセロ界におけるソフト事情の概要」](#序論-オセロ界におけるソフト事情の概要)
          * [ここで言う「オセロ」の定義](#ここで言うオセロの定義)
-         * [そもそも何のために完全解析したいの?](#そもそも何のために完全解析したいの)
          * [現在の解析状況](#現在の解析状況)
          * [ソフトの活用 〜世界大会を例に〜](#ソフトの活用-世界大会を例に)
          * [用語定義](#用語定義)
@@ -31,17 +30,20 @@
             * [オンラインサービスとして](#オンラインサービスとして)
       * [結論](#結論)
       * [参考](#参考)
-         * [Othello Software](#othello-software)
-         * [Others (Paper, Blog, Slide and so on)](#others-paper-blog-slide-and-so-on)
-            * [Othello](#othello)
-            * [Checker](#checker)
+         * [Othello](#othello)
+            * [Software](#software)
+            * [Others (Paper, Blog, Slide, ...)](#others-paper-blog-slide-)
+         * [General](#general)
+         * [Other Games](#other-games)
             * [Chess](#chess)
+            * [Checker](#checker)
             * [Shogi](#shogi)
             * [Go](#go)
-            * [General](#general)
-         * [IaaS Document](#iaas-document)
+         * [Infrastructure](#infrastructure)
+            * [Services](#services)
+            * [Others](#others)
 
-<!-- Added by: runner, at: Sat Dec 12 15:31:25 UTC 2020 -->
+<!-- Added by: shimizunaoki, at: 2020年 12月14日 月曜日 02時04分24秒 JST -->
 
 <!--te-->
 
@@ -52,10 +54,6 @@
 ### ここで言う「オセロ」の定義
 [「オセロ」の公式サイト](https://www.megahouse.co.jp/othello/what/)にある通り、`8 × 8` の大きさで、特定の初期配置から打ち進めるものを指すとします。  
 エイトスターズオセロやグランドオセロなどの派生競技は含めません。
-
-### そもそも何のために完全解析したいの?
-_最高の環境_ に必要だと思うため。  
-詳しくは[後述](#学習データの活用)。
 
 ### 現在の解析状況
 前提としてざっくり書いておきます。
