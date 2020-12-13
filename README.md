@@ -244,7 +244,7 @@ aaa
 
 #### Others (Paper, Blog, Slide, ...)
 * [Computer Othello | Wikipedia](https://en.wikipedia.org/wiki/Computer_Othello)
-* [Othello          | Chess Programming Wiki](https://www.chessprogramming.org/Othello)
+* [Othello | Chess Programming Wiki](https://www.chessprogramming.org/Othello)
 * [Searching for Solutions in Games and Artificial Intelligence](http://fragrieu.free.fr/SearchingForSolutions.pdf)
 * [Optimizing Search Space of Othello Using Hybrid Approach](https://www.researchgate.net/publication/289505529_Optimizing_Search_Space_of_Othello_Using_Hybrid_Approach)
 * [Complexity of Othello game](https://ci.nii.ac.jp/naid/110003191565)
