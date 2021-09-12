@@ -29,4 +29,10 @@ OLIVAW では、AlphaGo Zero の標準的な学習プロセスを高速化する
 Deep Learning, Computational Efficiency, Neural Networks, Monte Carlo methods, Board Games, Othello
 
 ## I. 導入
-aaa
+AlphaGo が囲碁界の巨匠 Lee Sedol に勝利してからわずか1年後、またしても扇情的な出来事が起こりました。  
+AlphaGo Zero と呼ばれる AlphaGo の改良版が史上最強の囲碁プレイヤーであることを主張したのです。[1]  
+AlphaGo Zero の注目すべき点は、これまでのソフトウェアとは異なり、人間の知識を一切必要とせず、独学でゲームを極めたことである。  
+その後の研究ですぐに明らかになりましたが、AlphaGo のパラダイムは、深層学習と強化学習の興味深い融合でした。  
+そして、それは一般的でありつつ柔軟性を持っていたため、さまざまなゲームに適用可能らしいことも分かりました。[2], [3]
+
+Thease
