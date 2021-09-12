@@ -24,3 +24,10 @@ OLIVAW では、AlphaGo Zero の標準的な学習プロセスを高速化する
 * 人間の一流プレイヤーとの対戦
   * vs 全米チャンピオン
   * vs 元世界チャンピオン
+
+## 索引用語
+
+Deep Learning, Computational Efficiency, Neural Networks, Monte Carlo methods, Board Games, Othello
+
+## I. 導入
+aaa
