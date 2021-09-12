@@ -29,4 +29,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           status: ${{ job.status }}
           deployment_id: ${{ steps.deployment.outputs.deployment_id }}
-          env_url: https://qiita.com/advent-calendar/2020/othello
+          env_url: https://qiita.com/sensuikan1973
